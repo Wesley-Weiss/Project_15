@@ -1,4 +1,4 @@
-//
+//2 Timothy 4:7: "I have fought the good fight, I have finished the race, I have kept the faith" (NIV)
 export const increaseSession = () => ({
     type: 'INCREASE_SESSION_TIME'
 })
