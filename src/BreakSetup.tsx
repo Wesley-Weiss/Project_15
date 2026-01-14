@@ -1,3 +1,4 @@
+//2 Timothy 4:7: "I have fought the good fight, I have finished the race, I have kept the faith" (NIV)
 import { useDispatch } from "react-redux";
 import type { SetupProps } from "./types";
 import type { AppDispatch } from "./store";

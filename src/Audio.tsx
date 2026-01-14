@@ -1,3 +1,4 @@
+//2 Timothy 4:7: "I have fought the good fight, I have finished the race, I have kept the faith" (NIV)
 import { useEffect } from "react";
 import type { AudioProps } from "./types";
 import beepSound from "./assets/audio/beep.mp3";

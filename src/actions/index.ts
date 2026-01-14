@@ -1,3 +1,4 @@
+//
 export const increaseSession = () => ({
     type: 'INCREASE_SESSION_TIME'
 })
